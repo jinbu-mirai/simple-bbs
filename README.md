@@ -20,7 +20,7 @@ LaravelとReactを使用して作成した簡易掲示板アプリケーショ�
 ### 1. リポジトリをクローン
 
 ```bash
-git clone リポジトリURL
+git clone https://github.com/jinbu-mirai/simple-bbs
 ```
 
 ### 2. プロジェクトフォルダへ移動
